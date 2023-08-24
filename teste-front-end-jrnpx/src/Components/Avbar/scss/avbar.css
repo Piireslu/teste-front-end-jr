@@ -6,3 +6,24 @@
   height: 32px;
 }
 
+.avisos {
+  display: flex;
+  align-items: center;
+}
+
+.avisos img {
+  width: 20px;
+  height: 20px;
+}
+
+.avisos p {
+  height: 18px;
+  font-size: 12px;
+  align-items: center;
+  margin-left: 9px;
+}
+
+.avisos span {
+  color: #f71963;
+  font-weight: 600;
+}/*# sourceMappingURL=avbar.css.map */
