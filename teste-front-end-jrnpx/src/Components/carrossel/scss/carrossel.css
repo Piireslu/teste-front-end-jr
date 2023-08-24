@@ -1,0 +1,53 @@
+.container-carrossel {
+  width: 1440px;
+  height: 395px;
+}
+
+.img-vendas250 {
+  position: absolute;
+}
+
+.img-vendas180 {
+  height: 395px;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 85.04%);
+  mix-blend-mode: normal;
+  opacity: 0.8;
+}
+
+.txt-img {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  margin-top: -340px;
+  margin-left: 86px;
+}
+
+.txt-img p {
+  width: 822px;
+  font-weight: 600;
+  font-size: 48px;
+  font-style: normal;
+  line-height: 72px;
+  color: #fff;
+}
+
+.txt-img span {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 54px;
+  color: #fff;
+}
+
+.button-img button {
+  position: absolute;
+  width: 227px;
+  height: 60px;
+  margin-top: 40px;
+  background: #f71963;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #fff;
+  border: none;
+}/*# sourceMappingURL=carrossel.css.map */

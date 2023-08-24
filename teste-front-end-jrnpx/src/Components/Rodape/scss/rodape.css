@@ -1,0 +1,155 @@
+.footer-container {
+  width: 1442px;
+  height: 395px;
+  margin-top: 169px;
+  background-color: #2a2a2a;
+}
+
+.footer-section1 {
+  height: 325px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: 93px;
+}
+
+.footer-section2 {
+  width: 1442px;
+  height: 70px;
+  border-top: 1px solid #fff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.sobre {
+  width: 149px;
+  height: 224px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-right: 93px;
+}
+
+.sobre p,
+.info p,
+.pag p {
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 20px;
+  color: #fff;
+}
+
+.sobre ul li,
+.info ul li {
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 32px;
+  text-transform: uppercase;
+  color: #fff;
+  list-style: none;
+}
+
+.info {
+  width: 150px;
+  height: 236px;
+  margin-right: 47px;
+}
+
+.pag {
+  width: 195px;
+  height: 192.55px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.cadastro {
+  width: 380px;
+  height: 260px;
+  background: #fff;
+  border-radius: 10px;
+  margin-left: 242px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cad-intern {
+  width: 317px;
+  height: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.cad-intern h3 {
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 26px;
+  text-transform: uppercase;
+  color: #3f3f40;
+}
+
+.cad-intern span {
+  font-weight: 700;
+  color: #3f3f40;
+}
+
+.cad-intern p {
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 19px;
+  text-align: center;
+  color: #3f3f40;
+}
+
+.cad-input {
+  width: 301px;
+  height: 45px;
+}
+
+.cad-input input {
+  width: 230px;
+  height: 45px;
+  background: #fff;
+  border: 1px solid #2a2a2a;
+  border-radius: 4px;
+  padding: 15px;
+}
+
+.cad-input button {
+  width: 62px;
+  height: 45px;
+  background: #f71963;
+  border-radius: 4px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  color: #fff;
+  border: 1px solid #f71963;
+}
+
+.cad-input button:hover {
+  color: #f71963;
+  background: #fff;
+  transition: 0.2s;
+}
+
+.footer-text p {
+  width: 698px;
+  height: 26px;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 13px;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.footer-marcas img {
+  width: 226.08px;
+  height: 32px;
+}/*# sourceMappingURL=rodape.css.map */

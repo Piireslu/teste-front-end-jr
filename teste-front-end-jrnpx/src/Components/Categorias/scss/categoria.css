@@ -1,0 +1,30 @@
+.categorias {
+  width: 1280px;
+  height: 30px;
+  background: #fff;
+  box-shadow: 0px 8px 16px rgba(57, 48, 19, 0.12);
+}
+
+.categorias-opcoes ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 10px;
+}
+
+.categorias-opcoes ul li {
+  display: inline-block;
+  list-style: none;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.categorias-opcoes ul li a {
+  text-decoration: none;
+}
+
+.categorias-opcoes ul li a:hover {
+  color: #F71963;
+  transition: 0.3s;
+}/*# sourceMappingURL=categoria.css.map */

@@ -1,0 +1,23 @@
+.container-vitrine {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  margin-top: 5px;
+  margin-left: 86px;
+  width: 1266px;
+  height: 500px;
+}
+
+.containerVitrine {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  margin-top: 30px;
+  margin-left: 86px;
+  width: 1266px;
+  height: 500px;
+}/*# sourceMappingURL=vitrine.css.map */
