@@ -15,7 +15,7 @@ O projeto foi construído utilizando as seguintes tecnologias:
 
 - `ReactJS`
 - `HTML`
-- `CSS com SASS`
+- `CSS com SCSS`
 - `jQuery`
 
 
